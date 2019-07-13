@@ -20,7 +20,7 @@ npm install react-shockinflux-payview --save
     class App extends Component {
 
     		state = {
-    		  key: "g1xq8y87************9XBJbKXuZo+x3uqw=", // RavePay PUBLIC KEY
+    		  storeid: "g1xq8y87************9XBJbKXuZo+x3uqw=", // Store KEY
     		  email: "foo@example.com", // customer email
     		  amount: 10000 // amount, 
     	  }
